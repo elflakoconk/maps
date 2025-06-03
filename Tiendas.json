@@ -1,0 +1,17 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.99185757399994,28.669077093000055,0]},"properties":{"Tienda":"11643"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.12435262499997,28.740886988000057,0]},"properties":{"Tienda":"11344"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.10374906799996,28.642762637000033,0]},"properties":{"Tienda":"11079"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.105614,28.67861,0]},"properties":{"Tienda":"11107"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.06818763999996,28.64640567300006,0]},"properties":{"Tienda":"11280"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.09313244499998,28.610292591000075,0]},"properties":{"Tienda":"11393"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.12877554,28.70655120600003,0]},"properties":{"Tienda":"11403"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.02888716399997,28.620989300000076,0]},"properties":{"Tienda":"11433"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.12714709799997,28.665097209000066,0]},"properties":{"Tienda":"11467"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.086463,28.714009814000065,0]},"properties":{"Tienda":"11611"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.13415570999996,28.64656052400005,0]},"properties":{"Tienda":"11613"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.12877554,28.70655120600003,0]},"properties":{"Tienda":"11403"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.06883569999997,28.6462,0]},"properties":{"Tienda":"Domino's Chihuahua Plaza Victoria"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.09323319999999,28.610278100000073,0]},"properties":{"Tienda":"Domino's Silvestre Terrazas"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.14946255499996,28.745973,0]},"properties":{"Tienda":"Montecarlo"}}
+]}
